@@ -1,1 +1,1 @@
-this is my readme file on shell redirections
+my readme on shell redirections
