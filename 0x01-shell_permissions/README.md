@@ -1,1 +1,1 @@
-authorization
+My shell permissions
